@@ -1,0 +1,15 @@
+#html {
+  text-align: right;
+  text-transform: capitalize;
+  line-height: 5px;
+}
+
+#css {
+  text-align: justify;
+  color: red;
+}
+
+#js {
+  color: green;
+  text-transform: capitalize;
+}
